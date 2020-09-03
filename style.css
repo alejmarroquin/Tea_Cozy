@@ -1,0 +1,23 @@
+body{
+  background-color: black;
+}
+
+
+header{
+  color: white;
+  height: 69px;
+  display:flex;
+}
+
+.logo{
+  height: 50px;
+  margin-left: 10px;
+  display: flex;
+
+}
+
+.header-nav{
+
+  display:inline-block;
+  justify-content: right;
+}
